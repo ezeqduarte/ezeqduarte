@@ -1,4 +1,4 @@
-<h2> Hi, I'm Duarte Ezequiel! <img src="https://raw.githubusercontent.com/Naman27/Naman27/master/source.gif" width="50"></h2>
+<h2> Hi, I'm Duarte Ezequiel! <img src="https://cdn-icons-mp4.flaticon.com/512/6416/6416345.mp4" width="50"></h2>
 <img align='right' src="https://fiverr-res.cloudinary.com/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/188684782/original/c487f063a943e3c732a496d0a7827d208dca9eb5.jpg" width="230">
 
 
