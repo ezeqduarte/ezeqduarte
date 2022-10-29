@@ -3,15 +3,17 @@
 
 
 
-[![Linkedin: thaianebraga](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/ezequiel-martin-duarte-716b65230/)
-[![GitHub Thaiane](https://img.shields.io/github/followers/thaiane?label=follow&style=social)](https://github.com/ezeqduarte)
+[![Linkedin: ezequiel-martin-duarte](https://img.shields.io/badge/-ezequielmartinduarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/ezequiel-martin-duarte-716b65230/)](https://www.linkedin.com/in/ezequiel-martin-duarte-716b65230/)
+[![GitHub Thaiane](https://img.shields.io/github/followers/ezeqduarte?label=follow&style=social)](https://github.com/ezeqduarte)
 
 
-### <img src="https://cdnmp.plentymarkets.com/19510/meta/images/icon_plugin_sm.png" width="50"> A little more about me...  
+### <img src="https://cdn-icons-png.flaticon.com/128/8741/8741124.png" width="40"> A little more about me...  
+
+<a href="https://ezeqduarte.github.io/challenge-petshop/"><img src="https://cdn.discordapp.com/attachments/1026888381814288424/1034618541296586762/Sin_titulo-1.png" width="40"></h2>
 
 ```javascript
-const thai = {
-  code: [Javascript, HTML, CSS],
+const = {
+  lenguajes: [Javascript, HTML, CSS],
   tools: [Bootstrap, Tailwind, AOS],
 }
 ```
