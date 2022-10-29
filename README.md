@@ -11,7 +11,7 @@
 
 <h2>PROYECTS</h2>
 
-
+<div style="display: flex; justify-content: center; align-items: center;">
 <div>
 <h4>Mindy petshop</h4>
 <a href="https://ezeqduarte.github.io/challenge-petshop/"><img src="https://cdn.discordapp.com/attachments/1026888381814288424/1034618541296586762/Sin_titulo-1.png" width="40"></h2>
@@ -21,7 +21,7 @@
 <h4>Mindy petshop</h4>
 <a href="https://ezeqduarte.github.io/challenge-petshop/"><img src="https://cdn.discordapp.com/attachments/1026888381814288424/1034618541296586762/Sin_titulo-1.png" width="40"></h2>
 </div>
-
+</div>
 
 
 ---
