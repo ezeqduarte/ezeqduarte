@@ -3,7 +3,7 @@
 
 
 
-[![Linkedin: ezequiel-martin-duarte](https://img.shields.io/badge/-ezequielmartinduarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/ezequiel-martin-duarte-716b65230/)](https://www.linkedin.com/in/ezequiel-martin-duarte-716b65230/)
+[![Linkedin: ezequiel-martin-duarte](https://img.shields.io/badge/-thaiane-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/ezequiel-martin-duarte-716b65230/)](https://www.linkedin.com/in/ezequiel-martin-duarte-716b65230/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/ezeqduarte?label=follow&style=social)](https://github.com/ezeqduarte)
 
 
