@@ -7,17 +7,21 @@
 [![GitHub ezeqduarte](https://img.shields.io/github/followers/ezeqduarte?label=follow&style=social)](https://github.com/ezeqduarte)
 
 
-### PROYECTS  
+###   
 
-<h2>Mindy Petshop</h2>
+<h2>PROYECTS</h2>
+
+
+<div>
+<h4>Mindy petshop</h4>
 <a href="https://ezeqduarte.github.io/challenge-petshop/"><img src="https://cdn.discordapp.com/attachments/1026888381814288424/1034618541296586762/Sin_titulo-1.png" width="40"></h2>
+</div>
 
-```javascript
-const = {
-  lenguajes: [Javascript, HTML, CSS],
-  tools: [Bootstrap, Tailwind, AOS],
-}
-```
+<div>
+<h4>Mindy petshop</h4>
+<a href="https://ezeqduarte.github.io/challenge-petshop/"><img src="https://cdn.discordapp.com/attachments/1026888381814288424/1034618541296586762/Sin_titulo-1.png" width="40"></h2>
+</div>
+
 
 
 ---
