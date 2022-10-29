@@ -9,8 +9,8 @@
 
 ###   
 
-<h2>PROYECTS</h2>
+<h2>Last Proyect</h2>
 
-- Challenge - Mindy Petshop: <a href="https://ezeqduarte.github.io/challenge-petshop/"><p>https://ezeqduarte.github.io/challenge-petshop/</p></a>
+- Mindy Petshop: <a href="https://ezeqduarte.github.io/challenge-petshop/"><p>https://ezeqduarte.github.io/challenge-petshop/</p></a>
 
 ---
