@@ -7,8 +7,9 @@
 [![GitHub ezeqduarte](https://img.shields.io/github/followers/ezeqduarte?label=follow&style=social)](https://github.com/ezeqduarte)
 
 
-### <img src="https://cdn-icons-png.flaticon.com/128/8741/8741124.png" width="40"> A little more about me...  
+### PROYECTS  
 
+<h2>Mindy Petshop</h2>
 <a href="https://ezeqduarte.github.io/challenge-petshop/"><img src="https://cdn.discordapp.com/attachments/1026888381814288424/1034618541296586762/Sin_titulo-1.png" width="40"></h2>
 
 ```javascript
