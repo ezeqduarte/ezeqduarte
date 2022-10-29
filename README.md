@@ -1,5 +1,5 @@
 <h2> Hi, I'm Duarte Ezequiel! <img src="https://cdn-icons-mp4.flaticon.com/512/6416/6416345.mp4" width="50"></h2>
-<img align='right' src="https://cdn-icons-mp4.flaticon.com/512/6416/6416352.mp4" width="230">
+<img align='right' src="https://cdn-icons-png.flaticon.com/128/2866/2866093.png" width="230">
 
 
 
