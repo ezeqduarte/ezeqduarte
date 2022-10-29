@@ -11,7 +11,7 @@
 
 <h2>PROYECTS</h2>
 
-- Challenge - Mindy Petshop: <a href="https://ezeqduarte.github.io/challenge-petshop/">
+- Challenge - Mindy Petshop: <a href="https://ezeqduarte.github.io/challenge-petshop/"><p>https://ezeqduarte.github.io/challenge-petshop/</p></a>
 
 
 <a href="https://ezeqduarte.github.io/challenge-petshop/"><img src="https://cdn.discordapp.com/attachments/1026888381814288424/1034618541296586762/Sin_titulo-1.png" width="40"></a>
