@@ -9,7 +9,7 @@
 
 ###   
 
-<h2>Last proect</h2>
+<h2>Last proec</h2>
 
 - Mindy Petshop: <a href="https://ezeqduarte.github.io/challenge-petshop/"><p>https://ezeqduarte.github.io/challenge-petshop/</p></a>
 
