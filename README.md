@@ -11,6 +11,6 @@
 
 <h2>Last proyect</h2>
 
-- Mindy Petshop: <a href="https://ezeqduarte.github.io/challenge-petshop/"><p>https://ezeqduarte.github.io/challenge-petshop/</p></a>
+- My Tinerary: <a href="[https://ezeqduarte.github.io/challenge-petshop/](https://my-tinerary-kingcatwo.vercel.app/)"><p>[https://ezeqduarte.github.io/challenge-petshop/](https://my-tinerary-kingcatwo.vercel.app/)</p></a>
 
 ---
