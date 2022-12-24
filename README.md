@@ -9,7 +9,7 @@
 
 ###   
 
-<h2>Last proyec</h2>
+<h2>Last proyect</h2>
 
 - My Tinerary front :  <a href="https://my-tinerary-kingcatwo.vercel.app/"><p>https://my-tinerary-kingcatwo.vercel.app/</p></a>
 - My Tinerary back :  <a href="https://back-mytinerary-kingcatwo.onrender.com/api/"><p>https://back-mytinerary-kingcatwo.onrender.com/api/</p></a>
