@@ -1,4 +1,7 @@
-<h2> Hi, I'm Duarte Ezequiel! <img src="https://cdn-icons-png.flaticon.com/128/8081/8081829.png" width="40"></h2>
+<h2> 👋 Hi, I’m Ezequiel Duarte</h2>
+<h2>👀 I’m interested in working as full stack remote developer.</h2>
+<h2>📫 You can reach me here: https://www.linkedin.com/in/ezeqduarte/</h2>
+
 <img align='right' src="https://cdn-icons-png.flaticon.com/512/2317/2317963.png" width="230">
 
 
