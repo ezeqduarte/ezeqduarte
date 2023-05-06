@@ -1,5 +1,5 @@
 <h1 align='center' > 👋 Hi, I’m Ezequiel Duarte</h1>
-<h3 >👀 I’m interested in working as full stack remote develope.</h3>
+<h3 >👀 I’m interested in working as full stack remote developer.</h3>
 <h3 >📫 You can reach me here: https://www.linkedin.com/in/ezeqduarte/</h3>
 
 <img align='right' src="https://cdn-icons-png.flaticon.com/512/2317/2317963.png" width="230">
