@@ -1,4 +1,4 @@
-<h1 align='center' > 👋 Hi, I’m Ezequiel Duarte</h1>
+<h1 align='center' > 👋 Hi, I’m Ezequiel Duart</h1>
 <h3 >👀 I’m interested in working as full stack remote developer.</h3>
 <h3 >📫 You can reach me here: https://www.linkedin.com/in/ezeqduarte/</h3>
 
