@@ -1,4 +1,4 @@
-<h1 align='center' > 👋 Hi, I’m Ezequiel Duarte</h1>
+<h1 align='center' > 👋 Hi, I’m Ezequiel Duar</h1>
 <h3 >👀 I’m interested in working as full stack remote developer.</h3>
 <p>Hello! My name is Ezequiel Duarte, and I'm an enthusiastic Full Stack MERN developer with skills and experience in various technologies and agile methodologies. I would love to be part of your web development team and contribute my expertise to take your projects to the next level.
 
