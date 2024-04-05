@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ezequiel Duarte
 
-Hello! I'm Ezequiel Duarte, a frontend developer with experience, currently working for a software company where we focus on creating components for libraries used in various projects. My main experience is in JavaScript, React, and Angular, but I also have solid knowledge in React Native, NextJS, TypeScript, CSS, and SCSS.
+I'm a frontend developer with experience, currently working for a software company where we focus on creating components for libraries used in various projects. My main experience is in JavaScript, React, and Angular, but I also have solid knowledge in React Native, NextJS, TypeScript, CSS, and SCSS.
 
 ## About Me
 
