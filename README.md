@@ -6,7 +6,7 @@ I'm a frontend developer with experience, currently working for a software compa
 
 - 💼 I currently work as a frontend developer, where I collaborate on creating components for Angular libraries.
 - 🌱 I'm always learning, and currently diving deep into studying design patterns and clean architecture to enhance my development practice.
-- 🔭 For more details about my experience, you can check out my profile on [![Linkedin: ezeqduarte](https://img.shields.io/badge/-ezeqduarte-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ezeqduarte/)](https://www.linkedin.com/in/ezeqduarte/).
+- 🔭 For more details about my experience, you can check out my profile on Linkedin.
 
 I'm always open to new collaborations! Feel free to get in touch if you want to learn more about my profile as a developer.
 
